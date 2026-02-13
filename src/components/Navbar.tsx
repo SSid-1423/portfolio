@@ -77,6 +77,11 @@ const Navbar = () => {
               )}
             </motion.a>
           ))}
+          <a
+  href="https://drive.google.com/file/d/1PkqSVEcD8ts6gA5ozCdTtQNVr8opOB3X/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+></a>
           <motion.button
             className="px-4 py-2 rounded-lg border border-primary text-primary text-sm font-mono hover:bg-primary/10 transition-colors"
             initial={{ opacity: 0 }}
